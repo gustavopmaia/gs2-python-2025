@@ -57,17 +57,17 @@ Aplicação de linha de comando simples que ajuda usuários a registrarem suas c
 
 Etapas principais da interface de linha de comando:
 
-1. **Menu principal**
+1. **Menu principal** <br>
    ![Menu principal](img/menu.png)
-2. **Criação de perfil**
+2. **Criação de perfil** <br>
    ![Criando perfil](img/perfil.png)
-3. **Adição de competências**
+3. **Adição de competências** <br>
    ![Adicionar competências](img/adicionar_competencias.png)
-4. **Listagem de competências disponíveis**
+4. **Listagem de competências disponíveis** <br>
    ![Lista de competências disponíveis](img/lista_competencias.png)
-5. **Competências cadastradas pelo usuário**
+5. **Competências cadastradas pelo usuário** <br>
    ![Competências do usuário](img/competencias_usuario.png)
-6. **Geração de recomendação**
+6. **Geração de recomendação** <br>
    ![Recomendador](img/recomendador.png)
-7. **Saída do sistema**
+7. **Saída do sistema** <br>
    ![Saindo do sistema](img/sair_sistema.png)
